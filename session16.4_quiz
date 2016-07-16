@@ -1,0 +1,31 @@
+Quiz
+
+1).Routing is defined as  
+a. Resource based routing  --correct
+b. REST  
+c. Resource based Controller  
+d. None  
+
+2).Resourceful routing will support …. Kinds of URL  
+a. 5  
+b. 4  
+c. 7  --correct
+d. None 
+
+3).Routing can be defined in  
+a. routes.rb  --correct
+b. database.yml  
+c. roots.rb  d. 
+All the above 
+
+4).filters are methods that can run at  
+a. before the action  
+b. around the action 
+c. after the action  
+d. all the above --correct
+
+5)Session are defined in  
+a. server side  --correct
+b. client side  
+c. database 
+d. None 
